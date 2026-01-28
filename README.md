@@ -1,2 +1,2 @@
 # Rich_list
-rich.list
+rich.list.ipynb
