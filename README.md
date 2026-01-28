@@ -1,2 +1,2 @@
-# Rich_list
+# Main_project
 rich.list.ipynb
